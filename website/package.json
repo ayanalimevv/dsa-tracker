@@ -1,0 +1,1 @@
+{"name":"margin-dsa","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node server.mjs","start":"node server.mjs","check":"node --check app.js && node --check curriculum.js && node --check model.js && node --check cloud.js && node --check server.mjs && node --check build.mjs","build":"node build.mjs"}}

@@ -1,0 +1,1052 @@
+[
+    {
+        "difficulty":  "Easy",
+        "title":  "Contains Duplicate",
+        "video":  "3OamzN90kPg",
+        "slug":  "contains-duplicate",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Valid Anagram",
+        "video":  "9UtInBqnCgA",
+        "slug":  "valid-anagram",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Two Sum",
+        "video":  "KLlXCFG5TnA",
+        "slug":  "two-sum",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Group Anagrams",
+        "video":  "vzdNOK2oB2E",
+        "slug":  "group-anagrams",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Top K Frequent Elements",
+        "video":  "YPTqKIgVk-k",
+        "slug":  "top-k-frequent-elements",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Product of Array Except Self",
+        "video":  "bNvIQI2wAjk",
+        "slug":  "product-of-array-except-self",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Valid Sudoku",
+        "video":  "TjFXEUCMqI8",
+        "slug":  "valid-sudoku",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Encode and Decode Strings",
+        "video":  "B1k_sxOSgv8",
+        "slug":  "encode-and-decode-strings",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Longest Consecutive Sequence",
+        "video":  "P6RZZMu_maU",
+        "slug":  "longest-consecutive-sequence",
+        "topic":  "Arrays \u0026 Hashing"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Valid Palindrome",
+        "video":  "jJXJ16kPFWg",
+        "slug":  "valid-palindrome",
+        "topic":  "Two Pointers"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Two Sum II Input Array Is Sorted",
+        "video":  "cQ1Oz4ckceM",
+        "slug":  "two-sum-ii-input-array-is-sorted",
+        "topic":  "Two Pointers"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "3Sum",
+        "video":  "jzZsG8n2R9A",
+        "slug":  "3sum",
+        "topic":  "Two Pointers"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Container With Most Water",
+        "video":  "UuiTKBwPgAo",
+        "slug":  "container-with-most-water",
+        "topic":  "Two Pointers"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Trapping Rain Water",
+        "video":  "ZI2z5pq0TqA",
+        "slug":  "trapping-rain-water",
+        "topic":  "Two Pointers"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Best Time to Buy And Sell Stock",
+        "video":  "1pkOgXD63yU",
+        "slug":  "best-time-to-buy-and-sell-stock",
+        "topic":  "Sliding Window"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Longest Substring Without Repeating Characters",
+        "video":  "wiGpQwVHdE0",
+        "slug":  "longest-substring-without-repeating-characters",
+        "topic":  "Sliding Window"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Longest Repeating Character Replacement",
+        "video":  "gqXU1UyA8pk",
+        "slug":  "longest-repeating-character-replacement",
+        "topic":  "Sliding Window"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Permutation In String",
+        "video":  "UbyhOgBN834",
+        "slug":  "permutation-in-string",
+        "topic":  "Sliding Window"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Minimum Window Substring",
+        "video":  "jSto0O4AJbM",
+        "slug":  "minimum-window-substring",
+        "topic":  "Sliding Window"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Sliding Window Maximum",
+        "video":  "DfljaUwZsOk",
+        "slug":  "sliding-window-maximum",
+        "topic":  "Sliding Window"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Valid Parentheses",
+        "video":  "WTzjTskDFMg",
+        "slug":  "valid-parentheses",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Min Stack",
+        "video":  "qkLl7nAwDPo",
+        "slug":  "min-stack",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Evaluate Reverse Polish Notation",
+        "video":  "iu0082c4HDE",
+        "slug":  "evaluate-reverse-polish-notation",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Generate Parentheses",
+        "video":  "s9fokUqJ76A",
+        "slug":  "generate-parentheses",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Daily Temperatures",
+        "video":  "cTBiBSnjO3c",
+        "slug":  "daily-temperatures",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Car Fleet",
+        "video":  "Pr6T-3yB9RM",
+        "slug":  "car-fleet",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Largest Rectangle In Histogram",
+        "video":  "zx5Sw9130L0",
+        "slug":  "largest-rectangle-in-histogram",
+        "topic":  "Stack"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Binary Search",
+        "video":  "s4DPM8ct1pI",
+        "slug":  "binary-search",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Search a 2D Matrix",
+        "video":  "Ber2pi2C0j0",
+        "slug":  "search-a-2d-matrix",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Koko Eating Bananas",
+        "video":  "U2SozAs9RzA",
+        "slug":  "koko-eating-bananas",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Find Minimum In Rotated Sorted Array",
+        "video":  "nIVW4P8b1VA",
+        "slug":  "find-minimum-in-rotated-sorted-array",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Search In Rotated Sorted Array",
+        "video":  "U8XENwh8Oy8",
+        "slug":  "search-in-rotated-sorted-array",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Time Based Key Value Store",
+        "video":  "fu2cD_6E8Hw",
+        "slug":  "time-based-key-value-store",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Median of Two Sorted Arrays",
+        "video":  "q6IEA26hvXc",
+        "slug":  "median-of-two-sorted-arrays",
+        "topic":  "Binary Search"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Reverse Linked List",
+        "video":  "G0_I-ZF0S38",
+        "slug":  "reverse-linked-list",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Merge Two Sorted Lists",
+        "video":  "XIdigk956u0",
+        "slug":  "merge-two-sorted-lists",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Reorder List",
+        "video":  "S5bfdUTrKLM",
+        "slug":  "reorder-list",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Remove Nth Node From End of List",
+        "video":  "XVuQxVej6y8",
+        "slug":  "remove-nth-node-from-end-of-list",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Copy List With Random Pointer",
+        "video":  "5Y2EiZST97Y",
+        "slug":  "copy-list-with-random-pointer",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Add Two Numbers",
+        "video":  "wgFPrzTjm7s",
+        "slug":  "add-two-numbers",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Linked List Cycle",
+        "video":  "gBTe7lFR3vc",
+        "slug":  "linked-list-cycle",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Find The Duplicate Number",
+        "video":  "wjYnzkAhcNk",
+        "slug":  "find-the-duplicate-number",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "LRU Cache",
+        "video":  "7ABFKPK2hD4",
+        "slug":  "lru-cache",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Merge K Sorted Lists",
+        "video":  "q5a5OiGbT6Q",
+        "slug":  "merge-k-sorted-lists",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Reverse Nodes In K Group",
+        "video":  "1UOPsfP85V4",
+        "slug":  "reverse-nodes-in-k-group",
+        "topic":  "Linked List"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Invert Binary Tree",
+        "video":  "OnSn2XEQ4MY",
+        "slug":  "invert-binary-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Maximum Depth of Binary Tree",
+        "video":  "hTM3phVI6YQ",
+        "slug":  "maximum-depth-of-binary-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Diameter of Binary Tree",
+        "video":  "bkxqA8Rfv04",
+        "slug":  "diameter-of-binary-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Balanced Binary Tree",
+        "video":  "QfJsau0ItOY",
+        "slug":  "balanced-binary-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Same Tree",
+        "video":  "vRbbcKXCxOw",
+        "slug":  "same-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Subtree of Another Tree",
+        "video":  "E36O5SWp-LE",
+        "slug":  "subtree-of-another-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Lowest Common Ancestor of a Binary Search Tree",
+        "video":  "gs2LMfuOR9k",
+        "slug":  "lowest-common-ancestor-of-a-binary-search-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Binary Tree Level Order Traversal",
+        "video":  "6ZnyEApgFYg",
+        "slug":  "binary-tree-level-order-traversal",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Binary Tree Right Side View",
+        "video":  "d4zLyf32e3I",
+        "slug":  "binary-tree-right-side-view",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Count Good Nodes In Binary Tree",
+        "video":  "7cp5imvDzl4",
+        "slug":  "count-good-nodes-in-binary-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Validate Binary Search Tree",
+        "video":  "s6ATEkipzow",
+        "slug":  "validate-binary-search-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Kth Smallest Element In a Bst",
+        "video":  "5LUXSvjmGCw",
+        "slug":  "kth-smallest-element-in-a-bst",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Construct Binary Tree From Preorder And Inorder Traversal",
+        "video":  "ihj4IQGZ2zc",
+        "slug":  "construct-binary-tree-from-preorder-and-inorder-traversal",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Binary Tree Maximum Path Sum",
+        "video":  "Hr5cWUld4vU",
+        "slug":  "binary-tree-maximum-path-sum",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Serialize And Deserialize Binary Tree",
+        "video":  "u4JAi2JJhI8",
+        "slug":  "serialize-and-deserialize-binary-tree",
+        "topic":  "Trees"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Implement Trie Prefix Tree",
+        "video":  "oobqoCJlHA0",
+        "slug":  "implement-trie-prefix-tree",
+        "topic":  "Tries"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Design Add And Search Words Data Structure",
+        "video":  "BTf05gs_8iU",
+        "slug":  "design-add-and-search-words-data-structure",
+        "topic":  "Tries"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Word Search II",
+        "video":  "asbcE9mZz_U",
+        "slug":  "word-search-ii",
+        "topic":  "Tries"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Kth Largest Element In a Stream",
+        "video":  "hOjcdrqMoQ8",
+        "slug":  "kth-largest-element-in-a-stream",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Last Stone Weight",
+        "video":  "B-QCq79-Vfw",
+        "slug":  "last-stone-weight",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "K Closest Points to Origin",
+        "video":  "rI2EBUEMfTk",
+        "slug":  "k-closest-points-to-origin",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Kth Largest Element In An Array",
+        "video":  "XEmy13g1Qxc",
+        "slug":  "kth-largest-element-in-an-array",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Task Scheduler",
+        "video":  "s8p8ukTyA2I",
+        "slug":  "task-scheduler",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Design Twitter",
+        "video":  "pNichitDD2E",
+        "slug":  "design-twitter",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Find Median From Data Stream",
+        "video":  "itmhHWaHupI",
+        "slug":  "find-median-from-data-stream",
+        "topic":  "Heap / Priority Queue"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Subsets",
+        "video":  "REOH22Xwdkk",
+        "slug":  "subsets",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Combination Sum",
+        "video":  "GBKI9VSKdGg",
+        "slug":  "combination-sum",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Permutations",
+        "video":  "s7AvT7cGdSo",
+        "slug":  "permutations",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Subsets II",
+        "video":  "Vn2v6ajA7U0",
+        "slug":  "subsets-ii",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Combination Sum II",
+        "video":  "rSA3t6BDDwg",
+        "slug":  "combination-sum-ii",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Word Search",
+        "video":  "pfiQ_PS1g8E",
+        "slug":  "word-search",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Palindrome Partitioning",
+        "video":  "3jvWodd7ht0",
+        "slug":  "palindrome-partitioning",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Letter Combinations of a Phone Number",
+        "video":  "0snEunUacZY",
+        "slug":  "letter-combinations-of-a-phone-number",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "N Queens",
+        "video":  "Ph95IHmRp5M",
+        "slug":  "n-queens",
+        "topic":  "Backtracking"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Number of Islands",
+        "video":  "pV2kpPD66nE",
+        "slug":  "number-of-islands",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Clone Graph",
+        "video":  "mQeF6bN8hMk",
+        "slug":  "clone-graph",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Max Area of Island",
+        "video":  "iJGr1OtmH0c",
+        "slug":  "max-area-of-island",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Pacific Atlantic Water Flow",
+        "video":  "s-VkcjHqkGI",
+        "slug":  "pacific-atlantic-water-flow",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Surrounded Regions",
+        "video":  "9z2BunfoZ5Y",
+        "slug":  "surrounded-regions",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Rotting Oranges",
+        "video":  "y704fEOx0s0",
+        "slug":  "rotting-oranges",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Walls And Gates",
+        "video":  "e69C6xhiSQE",
+        "slug":  "walls-and-gates",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Course Schedule",
+        "video":  "EgI5nU9etnU",
+        "slug":  "course-schedule",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Course Schedule II",
+        "video":  "Akt3glAwyfY",
+        "slug":  "course-schedule-ii",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Redundant Connection",
+        "video":  "FXWRE67PLL0",
+        "slug":  "redundant-connection",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Number of Connected Components In An Undirected Graph",
+        "video":  "8f1XPm4WOUc",
+        "slug":  "number-of-connected-components-in-an-undirected-graph",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Graph Valid Tree",
+        "video":  "bXsUuownnoQ",
+        "slug":  "graph-valid-tree",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Word Ladder",
+        "video":  "h9iTnkgv05E",
+        "slug":  "word-ladder",
+        "topic":  "Graphs"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Reconstruct Itinerary",
+        "video":  "ZyB_gQ8vqGA",
+        "slug":  "reconstruct-itinerary",
+        "topic":  "Advanced Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Min Cost to Connect All Points",
+        "video":  "f7JOBJIC-NA",
+        "slug":  "min-cost-to-connect-all-points",
+        "topic":  "Advanced Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Network Delay Time",
+        "video":  "EaphyqKU4PQ",
+        "slug":  "network-delay-time",
+        "topic":  "Advanced Graphs"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Swim In Rising Water",
+        "video":  "amvrKlMLuGY",
+        "slug":  "swim-in-rising-water",
+        "topic":  "Advanced Graphs"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Alien Dictionary",
+        "video":  "6kTZYvNNyps",
+        "slug":  "alien-dictionary",
+        "topic":  "Advanced Graphs"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Cheapest Flights Within K Stops",
+        "video":  "5eIK3zUdYmE",
+        "slug":  "cheapest-flights-within-k-stops",
+        "topic":  "Advanced Graphs"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Climbing Stairs",
+        "video":  "Y0lT9Fck7qI",
+        "slug":  "climbing-stairs",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Min Cost Climbing Stairs",
+        "video":  "ktmzAZWkEZ0",
+        "slug":  "min-cost-climbing-stairs",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "House Robber",
+        "video":  "73r3KWiEvyk",
+        "slug":  "house-robber",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "House Robber II",
+        "video":  "rWAJCfYYOvM",
+        "slug":  "house-robber-ii",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Longest Palindromic Substring",
+        "video":  "XYQecbcd6_c",
+        "slug":  "longest-palindromic-substring",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Palindromic Substrings",
+        "video":  "4RACzI5-du8",
+        "slug":  "palindromic-substrings",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Decode Ways",
+        "video":  "6aEyTjOwlJU",
+        "slug":  "decode-ways",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Coin Change",
+        "video":  "H9bfqozjoqs",
+        "slug":  "coin-change",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Maximum Product Subarray",
+        "video":  "lXVy6YWFcRM",
+        "slug":  "maximum-product-subarray",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Word Break",
+        "video":  "Sx9NNgInc3A",
+        "slug":  "word-break",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Longest Increasing Subsequence",
+        "video":  "cjWnW0hdF1Y",
+        "slug":  "longest-increasing-subsequence",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Partition Equal Subset Sum",
+        "video":  "IsvocB5BJhw",
+        "slug":  "partition-equal-subset-sum",
+        "topic":  "1-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Unique Paths",
+        "video":  "IlEsdxuD4lY",
+        "slug":  "unique-paths",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Longest Common Subsequence",
+        "video":  "Ua0GhsJSlWM",
+        "slug":  "longest-common-subsequence",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Best Time to Buy And Sell Stock With Cooldown",
+        "video":  "I7j0F7AHpb8",
+        "slug":  "best-time-to-buy-and-sell-stock-with-cooldown",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Coin Change II",
+        "video":  "Mjy4hd2xgrs",
+        "slug":  "coin-change-ii",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Target Sum",
+        "video":  "g0npyaQtAQM",
+        "slug":  "target-sum",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Interleaving String",
+        "video":  "3Rw3p9LrgvE",
+        "slug":  "interleaving-string",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Longest Increasing Path In a Matrix",
+        "video":  "wCc_nd-GiEc",
+        "slug":  "longest-increasing-path-in-a-matrix",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Distinct Subsequences",
+        "video":  "-RDzMJ33nx8",
+        "slug":  "distinct-subsequences",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Edit Distance",
+        "video":  "XYi2-LPrwm4",
+        "slug":  "edit-distance",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Burst Balloons",
+        "video":  "VFskby7lUbw",
+        "slug":  "burst-balloons",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Regular Expression Matching",
+        "video":  "HAA8mgxlov8",
+        "slug":  "regular-expression-matching",
+        "topic":  "2-D Dynamic Programming"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Maximum Subarray",
+        "video":  "5WZl3MMT0Eg",
+        "slug":  "maximum-subarray",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Jump Game",
+        "video":  "Yan0cv2cLy8",
+        "slug":  "jump-game",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Jump Game II",
+        "video":  "dJ7sWiOoK7g",
+        "slug":  "jump-game-ii",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Gas Station",
+        "video":  "lJwbPZGo05A",
+        "slug":  "gas-station",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Hand of Straights",
+        "video":  "amnrMCVd2YI",
+        "slug":  "hand-of-straights",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Merge Triplets to Form Target Triplet",
+        "video":  "kShkQLQZ9K4",
+        "slug":  "merge-triplets-to-form-target-triplet",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Partition Labels",
+        "video":  "B7m8UmZE-vw",
+        "slug":  "partition-labels",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Valid Parenthesis String",
+        "video":  "QhPdNS143Qg",
+        "slug":  "valid-parenthesis-string",
+        "topic":  "Greedy"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Insert Interval",
+        "video":  "A8NUOmlwOlM",
+        "slug":  "insert-interval",
+        "topic":  "Intervals"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Merge Intervals",
+        "video":  "44H3cEC2fFM",
+        "slug":  "merge-intervals",
+        "topic":  "Intervals"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Non Overlapping Intervals",
+        "video":  "nONCGxWoUfM",
+        "slug":  "non-overlapping-intervals",
+        "topic":  "Intervals"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Meeting Rooms",
+        "video":  "PaJxqZVPhbg",
+        "slug":  "meeting-rooms",
+        "topic":  "Intervals"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Meeting Rooms II",
+        "video":  "FdzJmTCVyJU",
+        "slug":  "meeting-rooms-ii",
+        "topic":  "Intervals"
+    },
+    {
+        "difficulty":  "Hard",
+        "title":  "Minimum Interval to Include Each Query",
+        "video":  "5hQ5WWW5awQ",
+        "slug":  "minimum-interval-to-include-each-query",
+        "topic":  "Intervals"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Rotate Image",
+        "video":  "fMSJSS7eO1w",
+        "slug":  "rotate-image",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Spiral Matrix",
+        "video":  "BJnMZNwUk1M",
+        "slug":  "spiral-matrix",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Set Matrix Zeroes",
+        "video":  "T41rL0L3Pnw",
+        "slug":  "set-matrix-zeroes",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Happy Number",
+        "video":  "ljz85bxOYJ0",
+        "slug":  "happy-number",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Plus One",
+        "video":  "jIaA8boiG1s",
+        "slug":  "plus-one",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Pow(x, n)",
+        "video":  "g9YQyYi4IQQ",
+        "slug":  "powx-n",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Multiply Strings",
+        "video":  "1vZswirL8Y8",
+        "slug":  "multiply-strings",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Detect Squares",
+        "video":  "bahebearrDc",
+        "slug":  "detect-squares",
+        "topic":  "Math \u0026 Geometry"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Single Number",
+        "video":  "qMPX1AOa83k",
+        "slug":  "single-number",
+        "topic":  "Bit Manipulation"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Number of 1 Bits",
+        "video":  "5Km3utixwZs",
+        "slug":  "number-of-1-bits",
+        "topic":  "Bit Manipulation"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Counting Bits",
+        "video":  "RyBM56RIWrM",
+        "slug":  "counting-bits",
+        "topic":  "Bit Manipulation"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Reverse Bits",
+        "video":  "UcoN6UjAI64",
+        "slug":  "reverse-bits",
+        "topic":  "Bit Manipulation"
+    },
+    {
+        "difficulty":  "Easy",
+        "title":  "Missing Number",
+        "video":  "WnPLSRLSANE",
+        "slug":  "missing-number",
+        "topic":  "Bit Manipulation"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Sum of Two Integers",
+        "video":  "gVUrDV4tZfY",
+        "slug":  "sum-of-two-integers",
+        "topic":  "Bit Manipulation"
+    },
+    {
+        "difficulty":  "Medium",
+        "title":  "Reverse Integer",
+        "video":  "HAgLH58IgJQ",
+        "slug":  "reverse-integer",
+        "topic":  "Bit Manipulation"
+    }
+]
