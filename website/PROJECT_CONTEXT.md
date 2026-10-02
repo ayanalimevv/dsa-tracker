@@ -38,3 +38,14 @@ Margin is a small, client-side study tracker for learning data structures and al
 2. Read `TODO.md` and `README.md` for the build state and Supabase setup.
 3. `app.js` fetches `problems.json` at runtime, and `build.mjs` copies the static assets into `dist/`.
 4. The project defines `npm run check` and `npm run build`. A live Supabase round trip and visual browser review remain unverified until a project is connected and browser access is available.
+
+## Product improvements (October 2, 2026)
+
+- Home recommends due reviews before the earliest gap, with an explanation and chosen daily study budget.
+- Study-plan setup selects time and focus; experienced learners can record prior results in Notes.
+- Problem completion records dated independent, hinted, or retry attempts. Independent results expand review intervals; hinted/retry results reset them.
+- Revisit shows due and upcoming reviews. Attempt counts remain visible after a result becomes Revisit.
+- Backup validation accepts older version 1 data and includes attempts/preferences in new backups.
+- Persistent save/sync status and downloadable conflict recovery are implemented. A differing device/account pair requires choosing which copy to keep.
+- `npm test` runs model tests. Vercel deployment settings are in `vercel.json` and README.
+- Local browser checks are now possible. Live Supabase and LeetCode integrations remain unverified; LeetCode sync is not implemented.
